@@ -1,4 +1,4 @@
-# https://www.acmicpc.net/problem/1004
+# https://www.acmicpc.net/problem/1014
 import sys
 
 def input_integers() -> tuple[int]:
